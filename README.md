@@ -1,2 +1,2 @@
 # Lampada
-site com javascript que liga e desliga uma lâmpada.
+Site com javascript que liga e desliga uma lâmpada.
